@@ -15,3 +15,7 @@ reports/
 *.mp4
 __pycache__/
 *.pyc
+
+# ship-sheet brand asset (ours, safe to ship)
+!assets/
+!assets/why-qc-gate.png

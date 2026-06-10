@@ -1,5 +1,7 @@
 # qc-gate
 
+![Why qc-gate exists](assets/why-qc-gate.png)
+
 An LLM-as-judge quality gate for AI-generated assets (images and music). A vision or
 audio model scores each candidate against your reference set and a rubric, then the
 PASS/FAIL is recomputed **in code** from the scores and critical violations: the model's
