@@ -1,0 +1,17 @@
+# never ship: secrets, third-party/personal images, generated media, caches
+.env
+references/
+candidates/
+market-research/
+APPROVED/
+rejected/
+reports/
+*.png
+*.jpg
+*.jpeg
+*.JPG
+*.wav
+*.mp3
+*.mp4
+__pycache__/
+*.pyc
